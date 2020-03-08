@@ -27,7 +27,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>Addon ver. 1.0</summary>
     <description>De um torcedor apaixonado para um bando de loucos.
-	Obs. O palmeiras não tem mundial    
+Obs. O palmeiras não tem mundial    
     </description>
     <platform>all</platform>
   </extension>

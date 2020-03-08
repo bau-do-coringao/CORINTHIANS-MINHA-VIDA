@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repo.CORINTHIANS.MINHA.VIDA" name="[COLOR white]CORINTHIANS MIN[/COLOR]HA[/COLOR] [COLOR black]VIDA[/COLOR]" version="1.0" provider-name="repo.CORINTHIANS.MINHA.VIDA">
+<addon id="repo.CORINTHIANS.MINHA.VIDA" name="[COLOR white][B]CORINTHIANS[/B][/COLOR] [COLOR black][B]MINHA VIDA[/B][/COLOR]" version="1.0" provider-name="repo.CORINTHIANS.MINHA.VIDA">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
