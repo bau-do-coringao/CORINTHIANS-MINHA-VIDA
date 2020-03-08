@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repo.CORINTHIANS.MINHA.VIDA" name="[COLOR white]CORINTHIANS[/COLOR] [COLOR gray]MINHA[/COLOR] [COLOR black]VIDA[/COLOR]" version="1.0" provider-name="repo.CORINTHIANS.MINHA.VIDA">
+<addon id="repo.CORINTHIANS.MINHA.VIDA" name="[COLOR white]CORINTHIANS MIN[/COLOR]HA[/COLOR] [COLOR black]VIDA[/COLOR]" version="1.0" provider-name="repo.CORINTHIANS.MINHA.VIDA">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -25,9 +25,9 @@
 		<datadir zip="true">https://raw.githubusercontent.com/bau-do-coringao/CORINTHIANS-MINHA-VIDA/master/plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	  <news>[COLOR white]Add-on do Corinthians para vocês se divertirem[/COLOR]</news>
-		<summary>Repositorio CORINTHIANS MINHA VIDA</summary>
-		<description>[COLOR mediumblue][B]UM ADD-ON FEITO DE QUEM AMA MUITO O CORINTHIANS, TUDO SEM FINS LUCRATIVOS[/B][/COLOR]</description>
+	  <news>[COLOR white]O primeiro repositorio do Corinthians para vocês se divertirem[/COLOR]</news>
+		<summary>REPOSITORIO CORINTHIANS MINHA VIDA</summary>
+		<description>[COLOR mediumblue][B]UM REPOSITORIO FEITO PARA QUEM AMA MUITO O CORINTHIANS, TUDO SEM FINS LUCRATIVOS[/B][/COLOR]</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <addon id="plugin.video.CORINTHIANS"
        name="[COLOR white][B]CORINTHIANS MINHA VIDA[/B][/COLOR]"
        version="1.0"
-       provider-name="Gavião">
+       provider-name="FAITHFUL HAWK">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -17,7 +18,7 @@
     <import addon="script.module.simplejson" />    
      <import addon="script.module.livestreamer" optional="true"/>
      <import addon="script.module.pyamf" optional="true"/>
-	</requires>
+  </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
@@ -25,9 +26,8 @@
   	
   <extension point="xbmc.addon.metadata">
     <summary>Addon ver. 1.0</summary>
-    <description>
-        De um torcedor apaixonado para toda uma nação de loucos.
-        Obs. O palmeiras não tem mundial    
+    <description>De um torcedor apaixonado para um bando de loucos.
+	Obs. O palmeiras não tem mundial    
     </description>
     <platform>all</platform>
   </extension>
