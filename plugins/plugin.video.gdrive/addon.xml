@@ -7,9 +7,7 @@
         <provides>video audio image programs</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-	<news>
-Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
-        </news>
+	<news></news>
         <summary>Listen to music, watch videos and view photos from your Google Drive account</summary>
         <description>Plays music and video from your Google Drive account.  Not affiliated with Google.</description>
         <platform>all</platform>
