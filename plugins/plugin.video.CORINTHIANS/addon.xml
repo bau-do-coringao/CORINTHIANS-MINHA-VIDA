@@ -3,7 +3,7 @@
 <addon id="plugin.video.CORINTHIANS"
        name="[COLOR white][B]CORINTHIANS MINHA VIDA[/B][/COLOR]"
        version="1.0"
-       provider-name="FAITHFUL HAWK">
+       provider-name="HAWK">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>

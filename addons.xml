@@ -3,7 +3,7 @@
 <addon id="plugin.video.CORINTHIANS"
        name="[COLOR white][B]CORINTHIANS MINHA VIDA[/B][/COLOR]"
        version="1.0"
-       provider-name="FAITHFUL HAWK">
+       provider-name="HAWK">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -26,13 +26,12 @@
   	
   <extension point="xbmc.addon.metadata">
     <summary>Addon ver. 1.0</summary>
-    <description>De um torcedor apaixonado para um bando de loucos.
+    <description>Um Add-on feito por um torcedor apaixonado para um bando de loucos.
 Obs. O palmeiras não tem mundial    
     </description>
     <platform>all</platform>
   </extension>
 </addon>
-
 
 <addon id="script.module.liveresolver" 
      name="LiveResolver" 
